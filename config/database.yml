@@ -38,5 +38,5 @@ production:
   database: sanyam_production
   pool: 5
   username: root
-  password:
+  password: ubuntu
   socket: /var/run/mysqld/mysqld.sock
